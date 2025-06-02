@@ -164,7 +164,7 @@ int main() {
     int opcao;
 
     do {
-        printf("\n=== MENU FLASHCARD HASH ===\n");
+        printf("\n=== MENU ===\n");
         printf("1 - Inicializar arquivo\n");
         printf("2 - Inserir registro\n");
         printf("3 - Listar registros\n");
